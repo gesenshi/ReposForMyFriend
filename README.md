@@ -1,2 +1,2 @@
 # ReposForMyFriend
-Repository for my friend 
+Repository for my friends
